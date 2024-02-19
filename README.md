@@ -1,15 +1,15 @@
 <html>
-  <head>
-    <title>Robert Jordan's Wheel of Time</title>
-  </head>
-  <body style="font-family: itc benguiat, sans-serif; margin-left: 10%; margin-right: 10%">
+<head>
+  <title>My Favorite Web Page</title>
+</head>
+<body style="font-family: Verdana, sans-serif; margin-left: 10%; margin-right: 10%">
 
-    <h1>Welcome to The Age of Legends</h1>
-    
-    <p align="center">
-      Wheel of Time Fanpage, <b>Wheel <font size="+1">of <font size="+2">Time <font color="#FF33CC">Fanpage</font></font></font></b>
-    </p>
+  <h1>Welcome to My Web Page</h1>
 
-  </body>
+  <p align="center">
+  This page is pretty boring now, <b>but <font size="+1">just <font size="+2">you <font color="#FF33CC">wait</font>!</font></font></b>
+  </p>
+  
+</body>  
 </html>
 
